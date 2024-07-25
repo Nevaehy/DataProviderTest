@@ -1,1 +1,1 @@
-{ response: {message: "It's a third response for a third regular request from GitHub. This request is supposed to be cached", code: 200} }
+{ response: {message: "It's a third response for a third regular request from GitHub. This response is supposed to be cached locally.", code: 200} }
